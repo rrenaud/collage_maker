@@ -1,6 +1,6 @@
 # CLIP+MLP Aesthetic Score Predictor
 
-The pre-trained model from here wrapped into a convinient class.
+The pre-trained model from here wrapped into a convenient class.
 
 https://github.com/christophschuhmann/improved-aesthetic-predictor
 
