@@ -1,5 +1,3 @@
-Import a bunch of jpg files into the local directory, and then
-step through the notebook.  It will pick a diverse set of 16 images and
-render them.
+Import a bunch of jpg files into the local directory, and then step through the notebook.  It will pick a diverse set of 16 aesthetic images and render them.
 
-This requires PIL, and the OpenAI clip model.
+This requires PIL, huggingface, and the OpenAI clip model.
